@@ -1,4 +1,4 @@
-# Netflix_Business_Case_Data_Exploration_and_Visualisation_(EDA)
+# Netflix Data Exploration and Strategic Insights using Python (EDA Project)
 
 
 
