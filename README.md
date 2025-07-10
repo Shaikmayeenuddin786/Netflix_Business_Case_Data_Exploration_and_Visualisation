@@ -62,11 +62,26 @@ These insights help guide Netflix's decisions around **content types, regions, a
 ### Content Mix
 
 * **Movies (70%)** dominate over TV Shows (30%) but the share of **TV Shows has grown steadily**, indicating shifting consumer demand toward episodic content.
+![image](https://github.com/user-attachments/assets/c4ffa7f5-238e-4c68-97d3-ba8e9a3c11f6)
+
+
+### Movie release over last 30 years
+* Steady Growth from 2000 to 2010 → The graph shows a gradual increase in movie releases starting around 2000,
+  must be due to release of netflix and other streaming services
+* Sharp Decline After 2020 → Might be related to the COVID-19 pandemic affecting production and releases.
+* Minimal Releases before 1990s → The number of movies released before the 1990s is noticibily low
+* Before 2010, the rise looked steady, but it exploded in the 2010s , again due to streaming services
+![image](https://github.com/user-attachments/assets/2943f802-2f76-4392-b47e-9948c48c0518)
+
+
 
 ### Temporal Trends
 
 * **2019 had the highest content additions**, reflecting aggressive platform expansion.
 * Post-2020, the pandemic appears to have impacted production, with a visible dip in new content uploads.
+* By focusing on TV shows, global partnerships, Netflix can sustain its leadership in streaming while aligning with evolving viewer demands.
+![image](https://github.com/user-attachments/assets/e97bd050-0dcf-4e4e-8a29-194728cc099e)
+
 
 ###  Country-Wise Distribution
 
@@ -77,16 +92,37 @@ These insights help guide Netflix's decisions around **content types, regions, a
 
 * Most content is rated **TV-MA**, targeting **mature audiences (18+)**.
 * Very few titles cater to children (TV-Y, TV-G), suggesting a growth opportunity in family content.
+![image](https://github.com/user-attachments/assets/21f39aad-cf57-475d-828b-d77f13b3ded6)
 
 ###  Duration Patterns
 
 * **Movies average around 90–100 minutes**.
 * **TV Shows mostly span 1-2 seasons**, ideal for binge-watching, but Netflix may explore longer story arcs for better viewer retention.
+* ![image](https://github.com/user-attachments/assets/530253f6-1a18-4244-b53d-393cb61fcb12)
+
+### Type Anlysis
+
+* Dominance of Mature Content , indicates strong preference for adult-oriented shows.
+* Limited Demand for Restricted Content:NC-17" and "UR" indicating minimal demand for extreme adult-rated content.
+* The most common content type is TV Shows, making up ~60% of total titles in recent years.
 
 ### Genre Analysis
 
 * Top genres: **Drama**, **Comedy**, **Documentary**, **Action & Adventure**.
 * **Drama** is the single most recurring genre, reflecting high emotional engagement and rewatchability.
+* **Top 5 Popular Genres** in netflix watched most
+* ![image](https://github.com/user-attachments/assets/fd2b8aa4-cef6-4b0d-99d7-4a52810e5d3e)
+
+
+##  Business Growth , the Median (Line Inside the Box) : Movie Duration Analysis (Box Plot Interpretation)
+-  The Box (Interquartile Range - IQR) Represents the middle 50% of all Netflix movie durations.
+-  A narrow box indicates most movies have similar lengths (consistency).
+-  A wider box suggests Netflix offers a diverse range of movie lengths.
+-  The Median (Line Inside the Box) Shows the midpoint of all movie durations.Helps understand if movies are typically longer or shorter than average.
+![image](https://github.com/user-attachments/assets/1350e278-2361-47a9-888f-018953cc1255)
+
+## Outliers
+- These are unusually short or long movies.Likely represent experimental content, such as short films or extended cinematic releases.
 
 ---
 
@@ -118,6 +154,7 @@ Based on deep exploratory analysis of Netflix’s dataset — including genre tr
 * Content aimed at younger audiences (e.g., **TV-Y, TV-G**) is underrepresented.
 * Netflix can **tap into the family streaming segment** by expanding animated series, educational shows, and kid-friendly movies.
 * Partner with educational and edutainment brands for co-branded family content.
+* Expand Mature Content Offerings. Strengthen Family-Friendly invest more TV-PG" and "TV-G" rated content,
 
 ---
 
@@ -126,12 +163,19 @@ Based on deep exploratory analysis of Netflix’s dataset — including genre tr
 * Content addition peaked in **2019**, followed by a **drop post-COVID**.
 * Aim to **return to 2019-level publishing** (especially in TV Shows), which coincided with strong user growth.
 * Explore **content diversification** (mini-series, documentaries, short films) to maintain a healthy content cadence.
+* Very long movies can be branded as "Netflix Specials" — perfect for deep storytelling or cinematic experiences.
+* If longer movies show high engagement, Netflix should invest in big-budget, story-rich films or limited series.
+* Short films and mini-movies appeal to busy viewers — ideal for mobile users or casual watch behavior. Netflix can expand its "Quick Watch" category for daily engagement.
+
+
 
 ---
 
 ### 5. **Invest in Limited-Series TV Shows**
 
-* Analysis shows that **most TV shows have 1–2 seasons**.
+* Prioritize TV Shows for Long-Term Engagement TV shows have seen consistent growth, while movie production peaked and declined after 2018.
+* Expand Global Content Production The dominance of International Movies & Dramas highlights a strong demand for culturally diverse stories. Netflix should collaborate with local filmmakers
+* Invest Heavily in Stand-Up Comedy & Documentaries , Comedy specials and documentaries are among the top-performing genres,
 * Encourage **high-quality limited series** with well-defined arcs that promote binge-watching while minimizing production risk.
 * Use viewer retention metrics to decide when to extend successful shows to multiple seasons.
 
