@@ -92,9 +92,8 @@ These insights help guide Netflix's decisions around **content types, regions, a
 
 * Most content is rated **TV-MA**, targeting **mature audiences (18+)**.
 * Very few titles cater to children (TV-Y, TV-G), suggesting a growth opportunity in family content.
-![image](https://github.com/user-attachments/assets/21f39aad-cf57-475d-828b-d77f13b3ded6)
-
-![image](https://github.com/user-attachments/assets/5f0a7245-bb5d-4643-8dd7-706593077135)
+  ![image](https://github.com/user-attachments/assets/21f39aad-cf57-475d-828b-d77f13b3ded6)
+  ![image](https://github.com/user-attachments/assets/5f0a7245-bb5d-4643-8dd7-706593077135)
 
 
 ###  Duration Patterns
